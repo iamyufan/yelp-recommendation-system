@@ -1,4 +1,4 @@
-# Restaurant recommendation system based on Yelp dataset
+# A Data-Driven Approach to Restaurant Recommendations
 
 **Authors**: Yufan Zhang, Ruitian Wu, Tian Jin, Edward Wang, Rundong Hu
 
@@ -14,3 +14,7 @@ Download the Yelp data from the [URL](https://www.yelp.com/dataset).
 ```bash
 unzip yelp_dataset.zip
 ```
+
+## Acknowledgements
+
+The project is derived from the final project of the course, CS 5304 Data Science in the Wild (2024 Spring), at Cornell Tech.
